@@ -1,0 +1,12 @@
+--CREATE TABLE STUDENT (
+--
+--	ID NUMBER(10),
+--	NAME VARCHAR(50),
+--	AGE NUMBER(3),
+--	BIRTHDATE DATE,
+--	EMAIL VARCHAR(500)
+--);
+
+INSERT INTO STUDENT (ID, NAME, BIRTH_DATE, EMAIL) VALUES (-1, 'Valerio Cavalieri','1984-01-09','kyosuke1984@gmail.com');
+INSERT INTO STUDENT (ID, NAME, BIRTH_DATE, EMAIL) VALUES (-2, 'Mariangela D''Elia','1983-09-08','madoka8983@gmail.com');
+
